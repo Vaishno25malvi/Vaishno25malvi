@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hello World !! 👋
+- I am student/learner at Indian Institute of Engineering Science and Technology, Shibpur.
+- 🔭 I’m currently working on a project to build an API model to create avatars.
+- 🌱 I’m currently learning about ML libraries of Python
+- 😄 Pronouns: She/her
 <!--
 **Vaishno25malvi/Vaishno25malvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
